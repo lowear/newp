@@ -14,6 +14,12 @@ Creating a new project with newp is a simple as running the following command:
 newp projectname
 ```
 
+## Prerequisites
+- Anaconda / Miniconda
+- Visual Studio Code
+- Git
+- github cli api
+
 ## Installation
 - Paste newp.bat into your default anaconda directory
 
